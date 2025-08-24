@@ -57,8 +57,8 @@
 // greet(); // Memanggil fungsi greet
 
 // #Parameter Fungsi dan Argumen------
-// function greetWaifu(waifu) {
-//    console.log(`Hello, ${waifu}!`);
-//}
+function greetWaifu(waifu) {
+    console.log(`Hello, ${waifu}!`);
+}
 
-//greetWaifu("Mahiru"); //
+greetWaifu("Mahiru"); //
